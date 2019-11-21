@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/5.8.3/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyDUHEHYj9q_ibWiwznCZuhR8W4EXYD9vao",
+    authDomain: "nuzfixers.firebaseapp.com",
+    databaseURL: "https://nuzfixers.firebaseio.com",
+    projectId: "nuzfixers",
+    storageBucket: "nuzfixers.appspot.com",
+    messagingSenderId: "148442892958"
+  };
+  firebase.initializeApp(config);
+</script>
